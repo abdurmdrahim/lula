@@ -1,0 +1,41 @@
+*{margin:5px;padding:5px}
+
+.test{width:300px;height:200px; background-color: lightskyblue;margin: ;border:2px solid lightcoral;
+display: inline-block;
+
+
+
+}
+
+
+        .devil{position: relative; top:50px;left:30px ; width:200px; 
+            height:100px; border-radius: 20px 20px;
+     color: darkorange;display: inline-block;
+     background-color: beige; text-align: center; 
+     border: 2px double lightcoral;margin:10px 10px ;}
+
+.devil:hover{background-color:darkgreen}
+.gost:hover {background-color: black;}
+.witch:hover{background-color: darkslategray;}
+
+.test-2{width:300px;height:200px; background-color: lightskyblue;  border:2px solid lightgreen;
+        display: inline-block;
+    }    
+        .gost{width:200px; height:100px; margin:10px 10px; position:relative;top:40px; left:20px;padding:1px;
+        border: 3px double rgb(250, 135, 135); border-radius: 20px 20px;
+        background-color: brown; text-align: center; color:lightgreen;display: inline-block;}
+ .test-3{width:300px;height:200px;
+    background-color: lightskyblue;  border:2px solid lightgreen; display:inline-block ;
+    
+    }    
+    
+   .witch{     width: 200px;
+    height: 100px;
+    margin: auto;
+    border: 1px solid darkorange;
+    text-align: center;
+    background-color: deeppink;
+    border-radius: 10px 10px;
+    position: relative;
+    top: 46px;
+        left: -13px}
